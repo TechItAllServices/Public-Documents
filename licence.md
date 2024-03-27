@@ -3,7 +3,7 @@ All Rights Reserved to **TECHITALL SERVICES**!
 ANY DOCUMENTS THAT ARE ABOVE A **LEVEL 0 CLEARANCE** ARE NOT TO BE PUT IN THIS DOCUMENT STORAGE!
 
 > [!NOTE]
-> This Documents are public. They have the lowest clearance!
+> These Documents are public. They have the lowest clearance!
 
 
 | Clearance Level    | Can Access |
